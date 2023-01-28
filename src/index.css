@@ -1,0 +1,12 @@
+.dark {
+  background-color: #000;
+  color: #fff;
+}
+
+.button {
+  /* p, bc: black, color: green */
+}
+
+.dark .button {
+  /* bg: green, color: black */
+}
